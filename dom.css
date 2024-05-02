@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color: color-mix(in srgb, color percentage, color percentage);
+}
+.id{
+    background-attachment: fixed;
+
+}
+h1{
+    background-color: aqua;
+}
